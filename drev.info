@@ -1,0 +1,5 @@
+name = drev
+description = drupal dev utility functions
+core = 7.x
+version = dev
+package = drev
